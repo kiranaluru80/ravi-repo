@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{18E96A13-D497-4684-8A0B-DB204F7A65A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadDataFromJson/ReadDataViewModel.cs">
+    <Files>
+      <File FileName="iOS/SQLite_iOS.cs" Line="21" Column="4" />
+      <File FileName="ReadDataFromJson/ReadDataFromJsonPage.xaml.cs" Line="14" Column="38" />
+      <File FileName="ReadDataFromJson/ReadDataViewModel.cs" Line="35" Column="33" />
+      <File FileName="ReadDataFromJson/getbannerdata.json" Line="21" Column="30" />
+      <File FileName="ReadDataFromJson/ResponceModel.cs" Line="26" Column="3" />
+      <File FileName="ReadDataFromJson/OutPut.cs" Line="17" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravikiranreddy/Desktop/projects/ReadDataFromJson-2/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="31" column="88" />
+      <Breakpoint file="/Users/ravikiranreddy/Desktop/projects/ReadDataFromJson-2/iOS/SQLite_iOS.cs" relfile="iOS/SQLite_iOS.cs" line="20" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Desktop/projects/ReadDataFromJson-2/ReadDataFromJson/RequestPage.xaml.cs" relfile="ReadDataFromJson/RequestPage.xaml.cs" line="13" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Desktop/projects/ReadDataFromJson-2/ReadDataFromJson/RequestPage.xaml.cs" relfile="ReadDataFromJson/RequestPage.xaml.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReadDataFromJson.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D93C4D9C-6BC3-4614-8F47-6511184A1640" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>Droid/ReadDataFromJson.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>
